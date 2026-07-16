@@ -103,24 +103,20 @@ Building practical applications and AI solutions that solve real-world problems.
 
 ---
 
-### 🤝 Let's Connect
+<h2 align="center">🤝 Let's Connect</h2>
 
-<p>
+<p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="22"/> LinkedIn
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<br><br>
 
 <a href="https://YOUR_PORTFOLIO_URL">
-🌐 Portfolio
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<br><br>
-
 <a href="mailto:sriranjanac@gmail.com">
-📧 sriranjanac@gmail.com
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
