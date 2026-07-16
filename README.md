@@ -10,19 +10,15 @@ Building practical applications and AI solutions that solve real-world problems.
 
 ## 👋 About Me
 
-<h4>
 🎓 Final-year Computer Science (AI) student at **Amrita Vishwa Vidyapeetham** and **Data Science** student at **IIT Madras**, with hands-on experience and a strong interest in building practical software and AI solutions for real-world problems.
 
 🌱 Currently learning **React JS** and **System Design**.
-</h4>
 
 ## 💡 Interests
 
-<h4>
 - Full Stack Development
 - AI Applications
 - Frontend Development
-</h4>h4>
 
 ---
 
