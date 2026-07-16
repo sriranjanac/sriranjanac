@@ -8,13 +8,13 @@ Building practical software, scalable web applications, and intelligent AI solut
 
 ---
 
-# 👋 About Me
+### 👋 About Me
 
 🎓 Final-year Computer Science (AI) student at **Amrita Vishwa Vidyapeetham** and **Data Science** student at **IIT Madras**, with hands-on experience and a strong interest in building practical software and AI solutions for real-world problems.
 
 🌱 Currently learning **React JS** and **System Design**.
 
-## 💡 Interests
+### 💡 Interests
 
 - Full Stack Development
 - AI Applications
@@ -22,7 +22,7 @@ Building practical software, scalable web applications, and intelligent AI solut
 
 ---
 
-# <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Code.svg" width="28"/> Skills
+### Skills
 
 <table>
 <tr>
@@ -103,7 +103,7 @@ Building practical software, scalable web applications, and intelligent AI solut
 
 ---
 
-# 🤝 Let's Connect
+### 🤝 Let's Connect
 
 <p>
 
