@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Sriranjana Chitraboopathy 👋</h1>
-
 <p align="center">
-Software Engineer • Full Stack Developer • AI Applications
+  <img src="banner.png" alt="Banner" width="100%">
 </p>
 
 <p align="center">
@@ -10,205 +8,119 @@ Building practical software, scalable web applications, and intelligent AI solut
 
 ---
 
-# About Me
+# 👋 About Me
 
-I'm a final-year Computer Science (Artificial Intelligence) student at **Amrita Vishwa Vidyapeetham** and also pursuing a **B.S. in Data Science and Applications** from **IIT Madras**.
+🎓 Final-year Computer Science (AI) student at **Amrita Vishwa Vidyapeetham** and **Data Science** student at **IIT Madras**, with hands-on experience and a strong interest in building practical software and AI solutions for real-world problems.
 
-I enjoy designing clean software architectures, building full-stack applications, and integrating AI into products that create real impact.
+🌱 Currently learning **React JS** and **System Design**.
 
-### Interests
+## 💡 Interests
 
 - Full Stack Development
-- Backend Engineering
 - AI Applications
-- Cloud Technologies
+- Frontend Development
 
 ---
 
-# Skills
-
-<p align="center">
-
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,mysql,c" />
-
-<br><br>
-
-### Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,flask,tailwind" />
-
-REST APIs
-
-<br><br>
-
-### AI & Machine Learning
-
-Machine Learning • LLMs • RAG • LangChain • Deep Learning • NLP
-
-<br><br>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,supabase,mongodb" />
-
-<br><br>
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=github,docker,vscode,azure,postman" />
-
-</p>
-
----
-
-# Featured Projects
+# <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Code.svg" width="28"/> Skills
 
 <table>
 <tr>
+<td width="180"><b>Languages</b></td>
+<td>
 
-<td width="50%">
-
-### LumenVC
-
-<a href="YOUR_REPO_LINK">
-<img src="assets/lumenvc.png"/>
-</a>
-
-AI-powered investor discovery platform using a multilingual RAG pipeline.
+<img src="https://skillicons.dev/icons?i=python" height="48"/>
+<img src="https://skillicons.dev/icons?i=java" height="48"/>
+<img src="https://skillicons.dev/icons?i=js" height="48"/>
+<img src="https://skillicons.dev/icons?i=c" height="48"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="48"/>
 
 </td>
-
-<td width="50%">
-
-### KuttyStory
-
-<a href="YOUR_REPO_LINK">
-<img src="assets/kuttystory.png"/>
-</a>
-
-Distributed AI pipeline for converting stories into narrated videos.
-
-</td>
-
 </tr>
 
 <tr>
+<td><b>Web Development</b></td>
+<td>
 
-<td width="50%">
-
-### MediTrack
-
-<a href="YOUR_REPO_LINK">
-<img src="assets/meditrack.png"/>
-</a>
-
-IoT healthcare platform for medication adherence and health monitoring.
-
-</td>
-
-<td width="50%">
-
-### LifeLink
-
-<a href="YOUR_REPO_LINK">
-<img src="assets/lifelink.png"/>
-</a>
-
-Full-stack blood donation management platform.
+<img src="https://skillicons.dev/icons?i=html" height="48"/>
+<img src="https://skillicons.dev/icons?i=css" height="48"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="48"/>
+<img src="https://skillicons.dev/icons?i=react" height="48"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="48"/>
+<img src="https://skillicons.dev/icons?i=flask" height="48"/>
+<img src="https://skillicons.dev/icons?i=fastapi" height="48"/>
 
 </td>
-
 </tr>
 
 <tr>
+<td><b>AI & ML</b></td>
+<td>
 
-<td width="50%">
+<img src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
 
-### StudyBox
+<img src="https://img.shields.io/badge/Deep%20Learning-0F172A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
 
-<a href="YOUR_REPO_LINK">
-<img src="assets/studybox.png"/>
-</a>
+<img src="https://img.shields.io/badge/LLMs-0F172A?style=for-the-badge&logo=openai&logoColor=white"/>
 
-Cloud-native AI learning assistant using Azure services.
+<img src="https://img.shields.io/badge/RAG-0F172A?style=for-the-badge&logo=semanticweb&logoColor=7C3AED"/>
 
-</td>
+<img src="https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logo=chainlink&logoColor=2ECC71"/>
 
-<td width="50%">
-
-### Secure Examination System
-
-<a href="YOUR_REPO_LINK">
-<img src="assets/exam.png"/>
-</a>
-
-Secure examination platform with cryptographic verification.
+<img src="https://img.shields.io/badge/NLP-0F172A?style=for-the-badge&logo=spacy&logoColor=09A3D5"/>
 
 </td>
+</tr>
 
+<tr>
+<td><b>Databases</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=postgres" height="48"/>
+<img src="https://skillicons.dev/icons?i=sqlite" height="48"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="48"/>
+<img src="https://skillicons.dev/icons?i=firebase" height="48"/>
+<img src="https://skillicons.dev/icons?i=supabase" height="48"/>
+
+</td>
+</tr>
+
+<tr>
+<td><b>Tools & Platforms</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=git" height="48"/>
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+<img src="https://skillicons.dev/icons?i=docker" height="48"/>
+<img src="https://skillicons.dev/icons?i=postman" height="48"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="48"/>
+<img src="https://skillicons.dev/icons?i=azure" height="48"/>
+
+</td>
 </tr>
 
 </table>
 
 ---
 
-# Currently Learning
+# 🤝 Let's Connect
 
-- Advanced React.js
-- System Design
-- Distributed Systems
-- Performance Optimization
+<p>
 
----
-
-# GitHub Statistics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sriranjanac&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriranjanac&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sriranjanac&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sriranjanac&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6"/>
-
-</p>
-
----
-
-# Connect
-
-<p align="center">
-
-<a href="YOUR_PORTFOLIO">
-Portfolio
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="22"/> LinkedIn
 </a>
-•
-<a href="YOUR_LINKEDIN">
-LinkedIn
+
+<br><br>
+
+<a href="https://YOUR_PORTFOLIO_URL">
+🌐 Portfolio
 </a>
-•
+
+<br><br>
+
 <a href="mailto:sriranjanac@gmail.com">
-Email
+📧 sriranjanac@gmail.com
 </a>
 
 </p>
@@ -216,5 +128,7 @@ Email
 ---
 
 <p align="center">
-Thanks for stopping by!
+
+### Have a nice day! ✨
+
 </p>
