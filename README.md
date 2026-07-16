@@ -10,8 +10,8 @@ Building practical applications and AI solutions that solve real-world problems.
 
 ## 👋 About Me
 
-🎓 Final-year Computer Science (AI) student at **Amrita Vishwa Vidyapeetham**
-🎓 **Data Science** student at **IIT Madras**
+🎓 Final-year Computer Science (AI) student at **Amrita Vishwa Vidyapeetham** <br>
+🎓 **Data Science** student at **IIT Madras** <br>
 🌱 Currently learning **React JS** and **System Design**.
 
 ## 💡 Interests
@@ -107,11 +107,11 @@ Building practical applications and AI solutions that solve real-world problems.
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/sriranjana-chitraboopathy">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO_URL">
+<a href="https://sriranjana.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
